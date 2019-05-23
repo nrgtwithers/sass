@@ -75,3 +75,9 @@ img {
       text-align: center;
   }
 }
+
+//Profiles page
+.profile {
+    display: grid;
+    grid-template-columns: 2fr 4fr 2fr;
+}
